@@ -8,17 +8,15 @@ A interface criada por mim mesmo usando o Figma (https://www.figma.com/file/dLRm
 Os layouts para `mobile`, não foi implementado no código.
 
 ## Light
-
 ### Desktop
-![image](https://user-images.githubusercontent.com/52856911/125689839-d6e4f6dc-9ef0-43f2-902e-48da75e0583d.png)
+![image](https://user-images.githubusercontent.com/52856911/126721110-51fa6bc8-6dd5-4daf-a03a-432484a2611d.png)
 
 ### Mobile
-![image](https://user-images.githubusercontent.com/52856911/125691598-a1996119-e439-4192-9357-714d8845a989.png)
+![image](https://user-images.githubusercontent.com/52856911/126721154-be046e36-cf40-4632-b88d-5d85c7ead15d.png)
 
 ## Dark
-
 ### Desktop
-![image](https://user-images.githubusercontent.com/52856911/125689975-551abf53-d931-44a5-8e1d-189a601bc2a6.png)
+![image](https://user-images.githubusercontent.com/52856911/126721191-f67bf2e2-1ab7-4b4e-800d-46b26fa4ecad.png)
 
 ### Mobile
-![image](https://user-images.githubusercontent.com/52856911/125691744-58d87203-4910-4bae-954b-88a9a56beda2.png)
+![image](https://user-images.githubusercontent.com/52856911/126721218-cd845563-da87-46e0-bb5b-6c3bb0772319.png)
