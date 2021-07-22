@@ -1,5 +1,5 @@
 # Dark-Light-Mode
-Objetivo desse projeto foi criar um layout onde a possibilidade de trocar de tema (dark e light).
+Objetivo desse projeto foi criar um layout onde a possibilidade de trocar de tema (dark e light) e salvar o valor no LocalStorage.
 
 Foi configurado do zero o Babel e Webpack para poder utilizar o React.
 
