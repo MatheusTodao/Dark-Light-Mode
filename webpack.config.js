@@ -24,6 +24,11 @@ module.exports = {
         use: 'babel-loader',
       },
 
+      {
+        test: /\.svg$/i,
+        use: 'url-loader',
+      },
+
     ]
   },
 
