@@ -4,7 +4,7 @@ Projeto simples de troca de tema entre light e dark e que salva o valor no local
 Foi configurado do zero o Babel e Webpack para poder utilizar o React.
 
 # Layout
-A interface criada por mim mesmo usando o Figma (https://www.figma.com/file/dLRmkz6OI0c6SWHRWqyt9t/Landing-Page-Store-Clothes?node-id=0%3A1).
+A interface criada por mim mesmo usando o Figma (https://www.figma.com/file/dLRmkz6OI0c6SWHRWqyt9t/Dark-and-Light-Mode-ClothinStore?node-id=0%3A1).
 Os layouts para `mobile`, não foi implementado no código.
 
 ## Light
