@@ -6,7 +6,7 @@ export const Container = styled.article`
 
   display: grid;
   grid-template-columns: 40rem 1fr;
-  grid-template-rows: 36.6rem 1fr;
+  grid-template-rows: 1fr 1fr;
   grid-template-areas:
     'title .'
     'description image';
@@ -57,7 +57,7 @@ export const SideImage  = styled.div`
   img {
     position: absolute;
     grid: image;
-    bottom: 2.75rem;
+    bottom: -15rem;
     right: 1rem;
     width: 18rem;
     height: 28.3rem;

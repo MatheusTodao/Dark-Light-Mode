@@ -17,7 +17,7 @@ export default createGlobalStyle`
     background: ${({ theme }) => theme.colors.background};
     border-radius: ${({ theme }) => theme.borderRadius};
     margin: 0 ${({ theme }) => theme.spacing.large};
-    height: 100vh;
+    height: 100%;
   }
 
   main {
