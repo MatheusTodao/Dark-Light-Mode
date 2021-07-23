@@ -1,11 +1,11 @@
 # Dark-Light-Mode
-Objetivo desse projeto foi criar um layout onde a possibilidade de trocar de tema (dark e light).
+Projeto simples de troca entre temas light e dark, que salva o valor no localstorage.
 
 Foi configurado do zero o Babel e Webpack para poder utilizar o React.
 
 # Layout
-A interface criada por mim mesmo usando o Figma (https://www.figma.com/file/dLRmkz6OI0c6SWHRWqyt9t/Landing-Page-Store-Clothes?node-id=0%3A1).
-Os layouts para `mobile`, não foi implementado no código.
+A interface criada por mim mesmo usando o Figma (https://www.figma.com/file/dLRmkz6OI0c6SWHRWqyt9t/Dark-and-Light-Mode-ClothinStore?node-id=0%3A1).
+Responsividade para dispositivo `mobile`, não foi implementado no código.
 
 ## Light
 ### Desktop
