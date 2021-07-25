@@ -17,7 +17,7 @@ export default function Main() {
               </h1>
 
               <p>
-                O <span className="uppercase">segredo</span> de se vestir com estilo é sentir-se confortavél. Lembra que o seu visual é uma essência da sua <span>personalidade.</span>
+                O <span className="uppercase">segredo</span> de vestir-se com estilo é sentir confortavél. Lembre, seu visual é uma essência da sua <span>personalidade.</span>
               </p>
             </SideText>
 
