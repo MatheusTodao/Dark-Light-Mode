@@ -1,5 +1,5 @@
 # Dark-Light-Mode
-Projeto simples de troca entre temas light e dark, que salva o valor no localstorage.
+Projeto simples de troca entre temas light e dark e que salva o valor no localstorage.
 
 Foi configurado do zero o Babel e Webpack para poder utilizar o React.
 
@@ -9,14 +9,14 @@ Responsividade para dispositivo `mobile`, não foi implementado no código.
 
 ## Light
 ### Desktop
-![image](https://user-images.githubusercontent.com/52856911/126721110-51fa6bc8-6dd5-4daf-a03a-432484a2611d.png)
+![image](https://user-images.githubusercontent.com/52856911/126884877-b0f572ec-7eb9-4950-a942-dbd24084070b.png)
 
 ### Mobile
-![image](https://user-images.githubusercontent.com/52856911/126721154-be046e36-cf40-4632-b88d-5d85c7ead15d.png)
+![image](https://user-images.githubusercontent.com/52856911/126884885-8fc8e216-dac6-437e-9b67-ef4d1732a83b.png)
 
 ## Dark
 ### Desktop
-![image](https://user-images.githubusercontent.com/52856911/126721191-f67bf2e2-1ab7-4b4e-800d-46b26fa4ecad.png)
+![image](https://user-images.githubusercontent.com/52856911/126884861-68af4eb0-dc28-429e-8919-f34b06a154a5.png)
 
 ### Mobile
-![image](https://user-images.githubusercontent.com/52856911/126721218-cd845563-da87-46e0-bb5b-6c3bb0772319.png)
+![image](https://user-images.githubusercontent.com/52856911/126884866-ee4d1a2f-b0e9-40dc-b1f9-9f005d359cca.png)
