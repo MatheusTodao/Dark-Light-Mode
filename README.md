@@ -3,6 +3,9 @@ Projeto simples de troca entre temas light e dark e que salva o valor no localst
 
 Foi configurado do zero o Babel e Webpack para poder utilizar o React.
 
+# View
+https://user-images.githubusercontent.com/52856911/126913061-200d8a4b-8204-4eba-9137-edcea74e4c79.mp4
+
 # Layout
 A interface criada por mim mesmo usando o Figma (https://www.figma.com/file/dLRmkz6OI0c6SWHRWqyt9t/Dark-and-Light-Mode-ClothinStore?node-id=0%3A1).
 Responsividade para dispositivo `mobile`, não foi implementado no código.
@@ -20,8 +23,4 @@ Responsividade para dispositivo `mobile`, não foi implementado no código.
 
 ### Mobile
 ![image](https://user-images.githubusercontent.com/52856911/126884866-ee4d1a2f-b0e9-40dc-b1f9-9f005d359cca.png)
-
-
-# View
-https://user-images.githubusercontent.com/52856911/126913061-200d8a4b-8204-4eba-9137-edcea74e4c79.mp4
 
