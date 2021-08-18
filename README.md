@@ -7,7 +7,7 @@ Foi configurado do zero o Babel e Webpack para poder utilizar o React.
 https://user-images.githubusercontent.com/52856911/126913061-200d8a4b-8204-4eba-9137-edcea74e4c79.mp4
 
 # Layout
-A interface criada por mim mesmo usando o Figma (https://www.figma.com/file/dLRmkz6OI0c6SWHRWqyt9t/Dark-and-Light-Mode-ClothinStore?node-id=0%3A1).
+A interface criada por mim mesmo usando o <a href="https://www.figma.com/file/dLRmkz6OI0c6SWHRWqyt9t/Dark-and-Light-Mode-ClothinStore?node-id=0%3A1">Figma</a>.
 Responsividade para dispositivo `mobile`, não foi implementado no código.
 
 ## Light
