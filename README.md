@@ -1,5 +1,5 @@
 # Dark and Light Mode
-Projeto simples de troca entre temas light e dark e que salva o valor no localstorage.
+Projeto simples de troca de temas: light e dark e que salva o valor no localstorage.
 
 Foi configurado do zero o Babel e Webpack para poder utilizar o React.
 
